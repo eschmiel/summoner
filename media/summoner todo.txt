@@ -1,0 +1,12 @@
+-[x]item description in info box
+-[x]interact with item
+-[x]switch to inventory controller
+-examine - equip/unequip -use with
+-scroll inventory
+-[X] swap out sprite sheets
+-[X]reaction images, detail images in item select screen
+-pickup item, lose item
+-interact while holding item
+--trigger dialogue
+-dialogue options?
+-lock and unlock doors
